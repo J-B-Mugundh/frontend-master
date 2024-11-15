@@ -110,7 +110,7 @@ This project is licensed under the [MIT LICENSE](./LICENSE).
 
 <div align='left'>
 
-[![Stargazers](https://reporoster.com/stars/beRajeevKumar/Frontend_Mentor)](https://github.com/gdgmit/frontend-master/stargazers)
+[![Stargazers](https://reporoster.com/stars/gdgmit/frontend-master)](https://github.com/gdgmit/frontend-master/stargazers)
 
 </div>
 
