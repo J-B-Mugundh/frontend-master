@@ -2,7 +2,7 @@
 
 Frontend Master is an excellent platform for front-end developers who want to improve their skills and build real-world projects, developed as a part of [Google Developer Group on Campus MIT’s](https://gdg.community.dev/gdg-on-campus-madras-institute-of-technology-chennai-india/) "Introduction to GitHub & Open Source Workshop".. It offers a range of challenges that cater to different skill levels and provides resources and support to help developers learn and grow their skills in HTML, CSS, and JavaScript.
 
-### Listing of all the projects
+<!-- ### Listing of all the projects
 
 | S.No | Name of the Project         | Live Project View | Source Code      | Read Blog     |
 | :--: | :-------------------------- | :---------------- | :--------------- | :------------ |
@@ -28,7 +28,7 @@ Frontend Master is an excellent platform for front-end developers who want to im
 | 20.  | Social Proof Section        | [Project Demo]()  | [Project Code]() | [Read Blog]() |
 | 21.  | Single Price Grid Component | [Project Demo]()  | [Project Code]() | [Read Blog]() |
 | 22.  | QR Code Component           | [Project Demo]()  | [Project Code]() | [Read Blog]() |
-| 22.  | SHOE WEBSITE                | [Project Demo]()  | [Project Code]() | [Read Blog]() |
+| 22.  | SHOE WEBSITE                | [Project Demo]()  | [Project Code]() | [Read Blog]() | -->
 
 ### Tech stack
 
